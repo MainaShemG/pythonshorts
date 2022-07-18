@@ -1,0 +1,6 @@
+list= ['abcd' ,1234 ,'name':'Joe']
+Tinylist =[1234, 'Joe']
+Print (list)
+Print (list[0])
+Print (list[2:6])
+Print (list+tinylist)
